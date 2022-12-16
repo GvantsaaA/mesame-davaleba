@@ -1,0 +1,109 @@
+body {
+    background-color: white;
+}
+
+h2 {
+color: black;
+width: 191px;
+height: 43px;
+left: 328px;
+top: 212px;
+font-family: 'Gotham';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 25px;
+margin-top: 212px;
+margin-left: 35px;
+margin-block-start: 35px;
+
+}
+
+.input1 {
+
+width: 616px;
+height: 50px;
+left: 332px;
+top: 287px;
+background: #FFFFFF;
+border: 1px solid #E5E5E5;
+border-radius: 10px;
+margin-left: 35px;
+margin-block-start: 35px;
+margin-top: 1px;
+color:#E7E7E7;
+}
+
+.input2 {
+    width: 616px;
+    height: 50px;
+    left: 332px;
+    top: 287px;
+    background: #FFFFFF;
+    border: 1px solid #E5E5E5;
+    border-radius: 10px;
+    margin-left: 35px;
+    margin-block-start: 35px;
+    margin-top: 1px;
+    color:#E7E7E7;
+    
+}
+
+
+
+p {
+
+color: black;
+margin-top: 25px;
+margin-left: 10px;
+margin-left: 35px;
+margin-block-start: 12px;
+
+
+}
+
+span {
+    margin-left: 40px;
+    color: #0653AD;
+
+}
+
+button {
+    margin-left: 480px;
+    margin-top: 5px;
+    padding-left: 58px;
+    padding-right: 58px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    background-color: #FFDD04;
+    border-radius: 5px;
+    border: #FFDD04;
+    font-family: 'Gotham';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 15px;
+}
+
+.myspan {
+color: #0653AD;
+margin-left: 5px;
+font-family: 'Gotham';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 14px;
+}
+
+.span1 {
+   
+    color: black;
+    font-family: 'Gotham';
+    font-family: 'Gotham';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 14px;
+    
+}
+
