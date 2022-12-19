@@ -1,0 +1,123 @@
+@font-face {
+    font-family: FiraGO;
+    src: url(c:\Users\Green\Desktop\MESAME\fonts\FiraGO-Regular.woff2);
+}
+
+body {
+    background: #FDFDFD;
+    height: 100vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+width: 718px;
+border-radius: 10px;
+border: 1px solid #F2F2F2;
+background: #FFFFFF;
+
+padding: 40px 51px 63px 51px;
+}
+
+h1 {
+font-family: FiraGO;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+color: black;
+
+margin-top: 0px;
+margin-bottom: 26px;
+}
+
+.input_tpe label {
+    display: block;
+    font-family: FiraGO;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #000000;
+    margin-bottom: 5px;
+}
+
+.input_tpe input {
+   
+    background: #FFFFFF;
+    border: 1px solid #E5E5E5;
+    border-radius: 10px;
+    width: 100%;
+
+   
+
+    padding: 18px 18px 18px 18px;
+
+}
+
+.input1 {
+    margin-bottom: 18px;
+}
+
+.input2 {
+    margin-bottom: 13px;
+}
+
+.lost_password {
+
+    font-family: FiraGO;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #0653AD;
+
+}
+
+.los_pas {
+    margin-bottom: 28px;
+}
+
+.linki_spani {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.fot {
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+
+}
+
+.fot span {
+   color: #000000; 
+}
+
+.fot a {
+    color: #0653AD;
+}
+
+button {
+    width: 205px;
+    height: 47px;
+    background: #FFDD04;
+    border-radius: 10px;
+    border: #FFDD04;
+
+    font-family: FiraGO;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #000000;
+
+}
